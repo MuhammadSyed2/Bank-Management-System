@@ -1,0 +1,35 @@
+Name: Muhammad Syed 
+Account no.: 1002 
+National id no.: 15426257829318459 
+Nominator name: Md. Khaled Bashar 
+Nominator account no.: 1001 
+Money: 10000 
+
+Name: Ahmad Syed 
+Account no.: 1003 
+National id no.: 12654821482486892 
+Nominator name: Md. Khaled Bashar 
+Nominator account no.: 1001 
+Money: 10000 
+
+Name: Rifat Hasan 
+Account no.: 100415458768219345286 
+National id no.: 15458768219345286 
+Nominator name: Muhammad Syed 
+Nominator account no.: 1002 
+Money: 50000 
+
+Name: f 
+Account no.: 10051455687 
+National id no.: 1455687 
+Nominator name: s 
+Nominator account no.: 2 
+Money: 20000 
+
+Name: s 
+Account no.: 1005124578 
+National id no.: 124578 
+Nominator name: j 
+Nominator account no.: 12 
+Money: 2130 
+
